@@ -159,25 +159,8 @@
 <!-- Footer -->
 <div align="center">
 
-### 📈 Profile Visitors
-
 ![Visitors](https://komarev.com/ghpvc/?username=PrathameshAmbekar15&color=00D9FF&style=for-the-badge)
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa500-ba8e-4388-ab32-99a4a10857d8.gif" width="600" alt="Coding GIF" />
-
-<br/>
-
-```
-🚀 Building the future, one commit at a time! 🚀
-Keep coding, keep learning, keep innovating!
-```
-
-**⭐ If you find my projects interesting, please give them a star! It means a lot! ⭐**
-
----
-
-*Last Updated: 2026* | *Made with ❤️ by Prathamesh Ambekar*
+⭐ **If you find my work interesting, please star my repositories!** ⭐
 
 </div>
