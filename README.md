@@ -89,7 +89,7 @@
 # 🤝 Connect
 
 - 📧 Email: prathameshambekar15@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/prathamesh-ambekar-3a27a6273/
 - 💻 GitHub: https://github.com/PrathameshAmbekar15
 
 ---
