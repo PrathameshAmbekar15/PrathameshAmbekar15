@@ -1,166 +1,101 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👋+Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Security+Enthusiast;Building+Innovative+Solutions+🚀" alt="Typing SVG" />
-</div>
+# Hi 👋, I'm Prathamesh Ambekar
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Cybersecurity+Enthusiast;Building+Scalable+Applications" />
+</p>
 
-<!-- About Me Section -->
-<div align="center">
-  
-  ### 🌟 About Me
-  
-  <p>
-    <a href="https://github.com/PrathameshAmbekar15">
-      <img src="https://img.shields.io/badge/GitHub-PrathameshAmbekar15-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <a href="mailto:prathameshambekar15@gmail.com">
-      <img src="https://img.shields.io/badge/Email-prathameshambekar15%40gmail.com-E4405F?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=mapbox" alt="Location" />
-  </p>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MongoDB</h3>
 
-  > Passionate **Full-Stack Developer** & **Cybersecurity Enthusiast** | Building innovative solutions with code | Always learning, always growing 🌱
+<p align="center">
+<a href="mailto:prathameshambekar15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/PrathameshAmbekar15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-</div>
+![](https://komarev.com/ghpvc/?username=PrathameshAmbekar15&style=for-the-badge)
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-<div align="center">
+- 🎓 Computer Science Engineering Graduate (2026)
+- 💻 Java Full Stack Developer
+- 🌱 Learning Spring Boot Microservices, Docker & AWS
+- 🔒 Cybersecurity Enthusiast
+- 🚀 Building scalable web applications
+
+## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://skillicons.dev/icons?i=java,python,javascript,html,css)
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### Frontend
+![](https://skillicons.dev/icons?i=react,tailwind,vite)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+### Backend
+![](https://skillicons.dev/icons?i=spring,nodejs,express)
 
-</div>
+### Database
+![](https://skillicons.dev/icons?i=mongodb,mysql,firebase)
+
+### Tools
+![](https://skillicons.dev/icons?i=git,github,postman,vscode,docker)
 
 ---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<div align="center">
-
-### 🌐 Web Applications
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Chat App](https://github.com/PrathameshAmbekar15/chatapp)** | Real-time messaging platform | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Job Portal](https://github.com/PrathameshAmbekar15/Job-Portal)** | Comprehensive job search platform | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **[Portfolio](https://github.com/PrathameshAmbekar15/Portfolio)** | Personal portfolio showcase | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
-### 🤖 AI & Data Science
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Fake News Detector](https://github.com/PrathameshAmbekar15/Fake-News-Detector)** | ML model for misinformation detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[Sales Forecasting System](https://github.com/PrathameshAmbekar15/Sales_Forecasting_System)** | Predictive analytics for sales | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[Jarvis Assistant](https://github.com/PrathameshAmbekar15/Jarvis_like_assistant)** | Voice-controlled AI assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-
-### 📚 Learning & Security
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Cybersecurity Projects](https://github.com/PrathameshAmbekar15/Cybersecurity-Projects)** | Security research & tools | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[Python-Codsoft](https://github.com/PrathameshAmbekar15/Python-Codsoft)** | Python learning projects | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[Java-Codsoft](https://github.com/PrathameshAmbekar15/Java-Codsoft)** | Java programming projects | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) |
-
-### 🛠️ Utilities
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Notes Management System](https://github.com/PrathameshAmbekar15/Notes_Management_System)** | Efficient note-taking app | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Tours & Travel Website](https://github.com/PrathameshAmbekar15/Tours_and_Travel_Website)** | Travel planning platform | ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-
-</div>
+| Project | Description |
+|---|---|
+| 🩸 MediFind | Blood donor finder using Spring Boot, React, MongoDB & JWT |
+| 💼 HireNest | Job Portal using React, Clerk & Supabase |
+| 💬 Chat App | Real-time chat using React, Firebase & Cloudinary |
+| 👷 Smart Worker Contractor Platform | Flutter + Firebase workforce management |
+| 🤖 Fake News Detector | ML-based fake news classification |
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshAmbekar15&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAmbekar15&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathameshAmbekar15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)](https://github.com/PrathameshAmbekar15)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PrathameshAmbekar15&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAmbekar15&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact)](https://github.com/PrathameshAmbekar15)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshAmbekar15&theme=tokyo-night&hide_border=true"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathameshAmbekar15&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/PrathameshAmbekar15)
+# 🏆 Achievements
 
-</div>
+- Google Cloud Skills Boost
+- Cyber Security Internship
+- Networking Internship
+- Built multiple Full Stack projects
 
----
+# 📚 Currently Learning
 
-<!-- Skills & Expertise -->
-## 💡 Areas of Expertise
+- Spring Security
+- JWT
+- Microservices
+- Docker
+- Kubernetes
+- AWS
 
-<div align="center">
+# 🤝 Connect
 
-| Category | Skills |
-|----------|--------|
-| **Frontend Development** | React, HTML5, CSS3, JavaScript, Responsive Design |
-| **Backend Development** | Node.js, Express, RESTful APIs, Database Management |
-| **Data Science** | Machine Learning, Data Analysis, Python Libraries (Pandas, NumPy, Scikit-learn) |
-| **Cybersecurity** | Security Research, Secure Coding, Vulnerability Analysis |
-| **Cloud & DevOps** | Cloud Computing, Git/GitHub, CI/CD Concepts |
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 🎯 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrathameshAmbekar15&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/PrathameshAmbekar15)
-
-</div>
+- 📧 Email: prathameshambekar15@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💻 GitHub: https://github.com/PrathameshAmbekar15
 
 ---
 
-<!-- Connect Section -->
-## 🤝 Let's Connect & Collaborate!
+> "First, solve the problem. Then, write the code."
 
-<div align="center">
-
-> I'm always open to exciting collaborations, learning opportunities, and meaningful conversations about technology!
-
-### 📬 Reach Out To Me
-
-[![Email](https://img.shields.io/badge/Email-prathameshambekar15%40gmail.com-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshambekar15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PrathameshAmbekar15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathameshAmbekar15)
-
-### 💬 What I'm Looking For
-
-✨ **Open Source Contributions** | 🚀 **Exciting Projects** | 💼 **Collaborations** | 📚 **Learning Together**
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=PrathameshAmbekar15&color=00D9FF&style=for-the-badge)
-
-⭐ **If you find my work interesting, please star my repositories!** ⭐
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=120&section=footer"/>
+</p>
