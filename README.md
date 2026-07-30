@@ -1,7 +1,7 @@
 # Hi 👋, I'm Prathamesh Ambekar
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Cybersecurity+Enthusiast;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Software+Developer;Cybersecurity+Enthus;Building+Scalable+Applications" />
 </p>
 
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MongoDB</h3>
