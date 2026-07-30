@@ -47,7 +47,7 @@
 
 | Project | Description |
 |---|---|
-| 🩸 MediFind | Blood donor finder using Spring Boot, React, MongoDB & JWT |
+| 🩸 MediFind | Medicine finder using Spring Boot, React, MongoDB & JWT |
 | 💼 HireNest | Job Portal using React, Clerk & Supabase |
 | 💬 Chat App | Real-time chat using React, Firebase & Cloudinary |
 | 👷 Smart Worker Contractor Platform | Flutter + Firebase workforce management |
