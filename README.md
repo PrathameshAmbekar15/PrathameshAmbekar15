@@ -73,6 +73,7 @@
 # 🏆 Achievements
 
 - Google Cloud Skills Boost
+- Git and GitHub
 - Cyber Security Internship
 - Networking Internship
 - Built multiple Full Stack projects
