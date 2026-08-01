@@ -74,6 +74,7 @@
 
 - Google Cloud Skills Boost
 - Python Full Stack Developer
+- Python Essentials
 - Git and GitHub
 - Cyber Security Internship
 - Networking Internship
