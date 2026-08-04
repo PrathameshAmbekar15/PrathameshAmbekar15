@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Software+Developer;Frontend+Developer;Backend+Developer;Building+Scalable+Applications" />
 </p>
 
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MongoDB</h3>
+<h3 align="center">🚀 Java Full Stack Developer | MERN Stack | Spring Boot | React | MongoDB</h3>
 
 <p align="center">
 <a href="mailto:prathameshambekar15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -79,6 +79,7 @@
 - Cyber Security Internship
 - Networking Internship
 - Built multiple Full Stack projects
+  
 
 # 📚 Currently Learning
 
