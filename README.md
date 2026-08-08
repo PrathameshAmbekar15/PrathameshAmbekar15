@@ -95,6 +95,7 @@
 - 📧 Email: prathameshambekar15@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/prathamesh-ambekar-3a27a6273/
 - 💻 GitHub: https://github.com/PrathameshAmbekar15
+- 🔗 Portfolio: https://prathamesh-ambekar-portfolio.vercel.app/
 
 ---
 
